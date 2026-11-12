@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6af3e8ff1a58ae75c0e53ffb"
+  },
+  "id_usuario": {
+    "$oid": "6af3e2b61a58ae75c0e53f8c"
+  },
+  "nombre": "Outfit casual de fin de semana",
+  "ocasion": "Salir",
+  "fecha_creacion": "2026-11-06"
+},
+{
+  "_id": {
+    "$oid": "6af3e9091a58ae75c0e53ffd"
+  },
+  "id_usuario": {
+    "$oid": "6af3e48f1a58ae75c0e53f9c"
+  },
+  "nombre": "Look entrenamiento mañana",
+  "ocasion": "Hacer deporte",
+  "fecha_creacion": "2026-11-07"
+},
+{
+  "_id": {
+    "$oid": "6af3e9141a58ae75c0e53fff"
+  },
+  "id_usuario": {
+    "$oid": "6af3e4a81a58ae75c0e53f9e"
+  },
+  "nombre": "Estilo universidad",
+  "ocasion": "Estudiar",
+  "fecha_creacion": "2026-11-08"
+},
+{
+  "_id": {
+    "$oid": "6af3e91e1a58ae75c0e54001"
+  },
+  "id_usuario": {
+    "$oid": "6af3e4b31a58ae75c0e53fa0"
+  },
+  "nombre": "Reunión ejecutiva",
+  "ocasion": "Trabajar",
+  "fecha_creacion": "2026-11-09"
+},
+{
+  "_id": {
+    "$oid": "6af3e92b1a58ae75c0e54003"
+  },
+  "id_usuario": {
+    "$oid": "6af3e4c01a58ae75c0e53fa2"
+  },
+  "nombre": "Salida nocturna",
+  "ocasion": "Salir",
+  "fecha_creacion": "2026-11-10"
+},
+{
+  "_id": {
+    "$oid": "6af3e9371a58ae75c0e54005"
+  },
+  "id_usuario": {
+    "$oid": "6af3e4d11a58ae75c0e53fa4"
+  },
+  "nombre": "Tarde de estudio",
+  "ocasion": "Estudiar",
+  "fecha_creacion": "2026-11-10"
+}]

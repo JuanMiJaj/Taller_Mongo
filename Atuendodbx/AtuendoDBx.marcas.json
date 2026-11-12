@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6af3e33f1a58ae75c0e53f90"
+  },
+  "nombre": "Nike",
+  "pais": "Estados Unidos"
+},
+{
+  "_id": {
+    "$oid": "6af3e5011a58ae75c0e53faa"
+  },
+  "nombre": "Zara",
+  "pais": "España"
+},
+{
+  "_id": {
+    "$oid": "6af3e50a1a58ae75c0e53fac"
+  },
+  "nombre": "Adidas",
+  "pais": "Alemania"
+},
+{
+  "_id": {
+    "$oid": "6af3e5161a58ae75c0e53fae"
+  },
+  "nombre": "Arturo Calle",
+  "pais": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "6af3e5201a58ae75c0e53fb0"
+  },
+  "nombre": "H&M",
+  "pais": "Suecia"
+}]

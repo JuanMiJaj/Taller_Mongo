@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6af3e59e1a58ae75c0e53fbc"
+  },
+  "nombre": "Camiseta deportiva",
+  "categoria": "Camiseta",
+  "color": "Negro",
+  "talla": "M",
+  "marca_id": {
+    "$oid": "6af3e5201a58ae75c0e53fb0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af3e5d71a58ae75c0e53fc1"
+  },
+  "nombre": "Jean clásico",
+  "categoria": "Pantalón",
+  "color": "Azul",
+  "talla": "32",
+  "marca_id": {
+    "$oid": "6af3e5161a58ae75c0e53fae"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af3e61c1a58ae75c0e53fcb"
+  },
+  "nombre": "Chaqueta impermeable",
+  "categoria": "Chaqueta",
+  "color": "Gris",
+  "talla": "L",
+  "marca_id": {
+    "$oid": "6af3e5011a58ae75c0e53faa"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af3e6531a58ae75c0e53fd0"
+  },
+  "nombre": "Tenis running",
+  "categoria": "Zapatos",
+  "color": "Blanco",
+  "talla": "40",
+  "marca_id": {
+    "$oid": "6af3e33f1a58ae75c0e53f90"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af3e67a1a58ae75c0e53fd4"
+  },
+  "nombre": "Camisa formal",
+  "categoria": "Camisa",
+  "color": "Blanco",
+  "talla": "M",
+  "marca_id": {
+    "$oid": "6af3e5161a58ae75c0e53fae"
+  }
+}]

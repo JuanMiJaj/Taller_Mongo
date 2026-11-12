@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6af3e6f41a58ae75c0e53fd9"
+  },
+  "usuario_id": {
+    "$oid": "6af3e2b61a58ae75c0e53f8c"
+  },
+  "prenda_id": {
+    "$oid": "6af3e59e1a58ae75c0e53fbc"
+  },
+  "fecha_ingreso": "2026-11-06"
+},
+{
+  "_id": {
+    "$oid": "6af3e7841a58ae75c0e53fe2"
+  },
+  "usuario_id": {
+    "$oid": "6af3e48f1a58ae75c0e53f9c"
+  },
+  "prenda_id": {
+    "$oid": "6af3e5d71a58ae75c0e53fc1"
+  },
+  "fecha_ingreso": "2026-11-06"
+},
+{
+  "_id": {
+    "$oid": "6af3e7c81a58ae75c0e53fe7"
+  },
+  "usuario_id": {
+    "$oid": "6af3e4a81a58ae75c0e53f9e"
+  },
+  "prenda_id": {
+    "$oid": "6af3e61c1a58ae75c0e53fcb"
+  },
+  "fecha_ingreso": "2026-11-07"
+},
+{
+  "_id": {
+    "$oid": "6af3e81d1a58ae75c0e53ff1"
+  },
+  "usuario_id": {
+    "$oid": "6af3e4b31a58ae75c0e53fa0"
+  },
+  "prenda_id": {
+    "$oid": "6af3e6531a58ae75c0e53fd0"
+  },
+  "fecha_ingreso": "2026-11-08"
+},
+{
+  "_id": {
+    "$oid": "6af3e8571a58ae75c0e53ff7"
+  },
+  "usuario_id": {
+    "$oid": "6af3e4c01a58ae75c0e53fa2"
+  },
+  "prenda_id": {
+    "$oid": "6af3e67a1a58ae75c0e53fd4"
+  },
+  "fecha_ingreso": "2026-11-09"
+}]

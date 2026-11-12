@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6af3e2b61a58ae75c0e53f8c"
+  },
+  "nombre": "Carlos Perez",
+  "correo": "carlos@gmail.com",
+  "contraseña": "hash_de_prueba",
+  "fecha_registro": {
+    "$date": "2026-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af3e48f1a58ae75c0e53f9c"
+  },
+  "nombre": "Ana Gómez",
+  "correo": "ana.gomez@email.com",
+  "contrasena": "hashed_password_123",
+  "fecha_registro": "2026-11-01"
+},
+{
+  "_id": {
+    "$oid": "6af3e4a81a58ae75c0e53f9e"
+  },
+  "nombre": "Carlos Ruiz",
+  "correo": "carlos.ruiz@email.com",
+  "contrasena": "hashed_password_456",
+  "fecha_registro": "2026-11-02"
+},
+{
+  "_id": {
+    "$oid": "6af3e4b31a58ae75c0e53fa0"
+  },
+  "nombre": "Laura Martínez",
+  "correo": "laura.m@email.com",
+  "contrasena": "hashed_password_789",
+  "fecha_registro": "2026-11-03"
+},
+{
+  "_id": {
+    "$oid": "6af3e4c01a58ae75c0e53fa2"
+  },
+  "nombre": "Andrés López",
+  "correo": "andres.l@email.com",
+  "contrasena": "hashed_password_101",
+  "fecha_registro": "2026-11-04"
+},
+{
+  "_id": {
+    "$oid": "6af3e4d11a58ae75c0e53fa4"
+  },
+  "nombre": "Sofía Torres",
+  "correo": "sofia.t@email.com",
+  "contrasena": "hashed_password_202",
+  "fecha_registro": "2026-11-05"
+}]

@@ -1,0 +1,6 @@
+# Dependencias (tu compañero las instala con "npm install")
+node_modules/
+
+# Variables de entorno con credenciales (NO subir).
+# Sube .env.example como plantilla en su lugar.
+.env

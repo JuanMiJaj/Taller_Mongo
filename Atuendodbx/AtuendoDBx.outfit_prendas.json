@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "6af3e9bc1a58ae75c0e54009"
+  },
+  "id_outfit": {
+    "$oid": "6af3e8ff1a58ae75c0e53ffb"
+  },
+  "id_prenda": {
+    "$oid": "6af3e5d71a58ae75c0e53fc1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af3e9c51a58ae75c0e5400b"
+  },
+  "id_outfit": {
+    "$oid": "6af3e8ff1a58ae75c0e53ffb"
+  },
+  "id_prenda": {
+    "$oid": "6af3e59e1a58ae75c0e53fbc"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af3e9cf1a58ae75c0e5400d"
+  },
+  "id_outfit": {
+    "$oid": "6af3e9091a58ae75c0e53ffd"
+  },
+  "id_prenda": {
+    "$oid": "6af3e59e1a58ae75c0e53fbc"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af3e9db1a58ae75c0e5400f"
+  },
+  "id_outfit": {
+    "$oid": "6af3e9091a58ae75c0e53ffd"
+  },
+  "id_prenda": {
+    "$oid": "6af3e6531a58ae75c0e53fd0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af3e9e61a58ae75c0e54011"
+  },
+  "id_outfit": {
+    "$oid": "6af3e9141a58ae75c0e53fff"
+  },
+  "id_prenda": {
+    "$oid": "6af3e61c1a58ae75c0e53fcb"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af3e9f51a58ae75c0e54013"
+  },
+  "id_outfit": {
+    "$oid": "6af3e91e1a58ae75c0e54001"
+  },
+  "id_prenda": {
+    "$oid": "6af3e67a1a58ae75c0e53fd4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af3ea001a58ae75c0e54015"
+  },
+  "id_outfit": {
+    "$oid": "6af3e92b1a58ae75c0e54003"
+  },
+  "id_prenda": {
+    "$oid": "6af3e5d71a58ae75c0e53fc1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af3ea0d1a58ae75c0e54017"
+  },
+  "id_outfit": {
+    "$oid": "6af3e9371a58ae75c0e54005"
+  },
+  "id_prenda": {
+    "$oid": "6af3e6531a58ae75c0e53fd0"
+  }
+}]
