@@ -31,7 +31,6 @@ app.get("/api/prendas", async (req, res) => {
   }
 });
 
-// GET /api/marcas -> todas las marcas
 app.get("/api/marcas", async (req, res) => {
   try {
     const marcas = await Marca.find();
@@ -42,7 +41,6 @@ app.get("/api/marcas", async (req, res) => {
   }
 });
 
-// GET /api/prendas/:id -> una prenda concreta
 app.get("/api/prendas/:id", async (req, res) => {
   try {
     const prenda = await Prenda.findById(req.params.id).populate("marca_id");
@@ -53,7 +51,6 @@ app.get("/api/prendas/:id", async (req, res) => {
   }
 });
 
-// --- Conexión a MongoDB y arranque del servidor ---
 async function start() {
   try {
     await mongoose.connect(MONGODB_URI);
